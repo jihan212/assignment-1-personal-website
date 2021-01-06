@@ -1,0 +1,224 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'PT Sans', sans-serif;
+}
+.menu ul{
+    margin-right: 30px;
+}
+.menu ul li{
+    float: right;
+    font-size: 20px;
+    list-style: none;
+    display: block;
+    padding-right: 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.highlighted-text{
+    color: salmon;
+}
+.hello{
+    width: 100%;
+    height: 600px;
+    background-image: url(images/bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 45%;
+    float: left;
+    padding-left: 40px;
+
+}
+.half-width img{
+    width: 95%;
+}
+.button{
+    background-color: sandybrown;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+#about-paragraph{
+    padding-top: 50px;
+}
+.about{
+    width: 100%;
+    height: 600px;
+    background-image: url(images/bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.project{
+    width: 100%;
+    height: 650px;
+}
+.project-box{
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 20px gray;
+    float: left;
+    padding: 30px 20px;
+    margin: 80px 33px 10px;
+    border-radius: 10px;
+}
+.project-box img{
+    width: 75%;
+    padding-left: 30px;
+}
+.box-heading{
+    padding-left: 30px;
+}
+.project-paragraph{
+    font-size: 15px;
+    padding-left: 30px;
+}
+#project_heading{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 70px;
+}
+.lower{
+    width: 100%;
+    height: 400px;
+}
+.lower-image{
+    width: 70%;
+    margin-left: 160px;
+    padding-top: 90px;
+    position: relative;
+}
+.lower-image img{
+    width: 100%;
+}
+.lower-heading{
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    color: #fff;
+}
+.lower-button{
+    position: absolute;
+    top: 180px;
+    left: 670px;
+    background-color: sandybrown;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.contact{
+    width: 100%;
+    height: 500px;
+}
+.contact-box{
+    width: 60%;
+    height: 450px;
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 240px;
+    margin-top: 80px;
+    border: none;
+    border-radius: 10px;
+}
+.contact-box h2{
+    margin-left: 30px;
+    padding-top: 15px;
+    text-shadow: 5px 5px 10px rgb(192, 201, 163);
+}
+#name{
+    margin-left: 30px;
+    width: 80%;
+    height: 50px;
+    box-shadow: 10px 10px 20px gray;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: none;
+}
+#mail{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 80%;
+    height: 50px;
+    box-shadow: 10px 10px 20px gray;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: none;
+}
+#massage{
+    margin-left: 30px;
+    width: 80%;
+    height: 120px;
+    box-shadow: 10px 10px 20px gray;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.contact-button{
+    margin-left: 30px;
+    display: inline-block;
+    background-color: sandybrown;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+footer{
+    width: 100%;
+    height: 230px;
+}
+.footer{
+    width: 50%;
+    height: 200px;
+    margin-left: 290px;
+    padding-top: 20px;
+    text-align: center;
+}
+.footer h4{
+    font-size: 20px;
+}
+.footer h3{
+    font-size: 30px;
+}
+.footer ul{
+    padding-left: 250px;
+
+}
+.footer ul li{
+    width: 30px;
+    list-style: none;
+    float: left;
+    padding-left: 5px;
+}
+.footer ul li img{
+    width: 100%;
+}
